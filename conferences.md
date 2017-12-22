@@ -8,7 +8,7 @@
 - [KubeCon North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/) | December 11-13 2018, Seattle
 
 ### language specific
-- [RustConf](http://rustconf.com/) (Rust)
+- [RustConf](http://rustconf.com/) (Rust) | Aug 16-17, Portland
 - [Rust Belt Rust](https://www.rust-belt-rust.com/) (Rust)
 - [GopherCon North America](https://gophercon.com/) (Go)
 - [GopherCon EU](https://gophercon.is/) (Go) | May 31-June 2 2018, Reykjavik, Iceland
