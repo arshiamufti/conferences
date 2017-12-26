@@ -2,7 +2,7 @@
 ### infrastructure engineering
 
 - [LISA Conference](https://www.usenix.org/conferences/byname/5) | 2018, Nashville
-- [Velocity](https://conferences.oreilly.com/velocity) | various dates in 2018, NYC/San Jose/London
+- [Velocity](https://conferences.oreilly.com/velocity) | June 11-14 2018, NYC; September 30-October 3, London
 - [SREcon North America](https://www.usenix.org/srecon) | March 27-29 2018, Santa Clara
 - [Monitorama](http://monitorama.com/) | June 4-6 2018, Portland
 - [KubeCon North America](https://events.linuxfoundation.org/events/kubecon-cloudnativecon-north-america-2018/) | December 11-13 2018, Seattle
