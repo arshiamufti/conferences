@@ -32,3 +32,4 @@
 - [Write/Speak/Code](http://www.writespeakcode.com/)
 - [PWLConf (Papers We Love)](https://pwlconf.org/)
 - [We Rise Tech Conference](https://werise.tech/) | June 21-22 2018, Atlanta
+- [self.conference](http://selfconference.org/) | August 17-18 2018, Detroit
